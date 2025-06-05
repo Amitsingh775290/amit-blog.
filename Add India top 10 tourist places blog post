@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8" />
+  <title>India ke Top 10 Tourist Places - Amit Blog</title>
+</head>
+<body>
+  <h1>India ke Top 10 Tourist Places</h1>
+
+  <p>India ek sundar desh hai jahan har prakar ke tourist places hain — pahadon se lekar samundar tak, itihasik sthalon se lekar prakritik saundarya tak.</p>
+
+  <h2>1. Taj Mahal, Agra</h2>
+  <p>Taj Mahal duniya ka ek mashhoor itihasik monument hai, jo pyaar ki nishani ke roop me jaana jata hai.</p>
+  <img src="images/taj-mahal.jpg" alt="Taj Mahal" width="600" />
+
+  <h2>2. Jaipur, Rajasthan</h2>
+  <p>Jaipur ko Pink City ke naam se jana jata hai, jahan ki shahi haweliyaan aur kila bahut lokpriya hain.</p>
+  <img src="images/jaipur.jpg" alt="Jaipur City" width="600" />
+
+  <h2>3. Goa Beaches</h2>
+  <p>Goa ke beaches apni khoobsurti aur vibrant nightlife ke liye mashhoor hain.</p>
+  <img src="images/goa-beach.jpg" alt="Goa Beach" width="600" />
+
+  <h2>4. Kerala Backwaters</h2>
+  <p>Kerala ke backwaters me houseboat ride ek shanti aur prakriti ke kareeb anubhav deta hai.</p>
+  <img src="images/kerala-backwaters.jpg" alt="Kerala Backwaters" width="600" />
+
+  <h2>5. Manali, Himachal Pradesh</h2>
+  <p>Manali pahaadon ke beech ek sukoon bhari jagah hai, jo trekking aur adventure ke liye perfect hai.</p>
+  <img src="images/manali.jpg" alt="Manali" width="600" />
+
+  <h2>6. Varanasi, Uttar Pradesh</h2>
+  <p>Varanasi Bharat ka sabse purana shahar mana jata hai, jahan Ganga ghats par aarti dekhne layak hoti hai.</p>
+  <img src="images/varanasi.jpg" alt="Varanasi Ghats" width="600" />
+
+  <h2>7. Rishikesh, Uttarakhand</h2>
+  <p>Rishikesh yoga aur adventure sports ke liye duniya bhar me mashhoor hai.</p>
+  <img src="images/rishikesh.jpg" alt="Rishikesh" width="600" />
+
+  <h2>8. Udaipur, Rajasthan</h2>
+  <p>Udaipur ko City of Lakes bhi kaha jata hai, jahan ke rajwade mahal aur jheel bahut khubsurat hain.</p>
+  <img src="images/udaipur.jpg" alt="Udaipur Lake" width="600" />
+
+  <h2>9. Amritsar, Punjab</h2>
+  <p>Golden Temple Amritsar ka pramukh dharmik sthal hai, jo shanti aur spiritual energy se bhara hai.</p>
+  <img src="images/amritsar.jpg" alt="Golden Temple" width="600" />
+
+  <h2>10. Mysore, Karnataka</h2>
+  <p>Mysore Palace aur uske shahi itihas ke liye jana jata hai, jo bharatiya sanskriti ko darshata hai.</p>
+  <img src="images/mysore.jpg" alt="Mysore Palace" width="600" />
+
+  <a href="index.html">Back to Home</a>
+</body>
+</html>
